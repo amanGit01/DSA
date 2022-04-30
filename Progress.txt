@@ -2,4 +2,5 @@
 DAY 1 
 ------
 
-1. 
+1. Revised basic concepts of C++(if-else, while loop, etc).
+2. 
